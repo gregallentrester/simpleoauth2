@@ -1,0 +1,5 @@
+#!/bin/bash -p
+
+kbyport 8080
+
+java -jar ./target/oauth2simple-1.0.0.jar
